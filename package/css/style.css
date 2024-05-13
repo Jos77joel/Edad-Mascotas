@@ -50,7 +50,7 @@ section>.p2{
     background-size: cover;
     color: antiquewhite;
     background-position: center;
-    font-size: 4%;
+    font-size: 4vh;
     padding: 2%;
 
 }
@@ -101,7 +101,7 @@ section>.p2{
 }
 .sec3>form>button{
     height: 100%;
-    width: 30%;
+    width: 33%;
     box-shadow: 3px 6px 9px rgb(20, 92, 199);
     border-radius: 5px;
     border-style: none;
