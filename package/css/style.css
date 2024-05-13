@@ -50,7 +50,7 @@ section>.p2{
     background-size: cover;
     color: antiquewhite;
     background-position: center;
-    font-size: 4vh;
+    font-size: 4%;
     padding: 2%;
 
 }
@@ -85,30 +85,31 @@ section>.p2{
     flex-direction: column;
     justify-content: center;
     justify-items: center;
-    gap: 4vh;
+    gap: 10px;
 
 }
 .sec3>label{
-    font-size: 3vh;
+    font-size: 3%;
 }
 .sec3>form>input{
-    height: 5vh;
-    width: 35vh;
+    height: auto;
+    width: 80%;
     box-shadow: 3px 6px 9px rgb(20, 92, 199);
     border-radius: 5px;
     border-style: none;
 
 }
 .sec3>form>button{
-    height: 5vh;
-    width: 13vh;
+    height: 100%;
+    width: 30%;
     box-shadow: 3px 6px 9px rgb(20, 92, 199);
     border-radius: 5px;
     border-style: none;
 
 }
 div{
-    font-size: 5vh;
+    font-size: 5%;
+    color: black;
 }
 
 .sec4{
@@ -132,19 +133,19 @@ div{
 
 }
 .sec4>label{
-    font-size: 3vh;
+    font-size: 3%;
 }
 .sec4>form>input{
-    height: 5vh;
-    width: 35vh;
+    height: 5%;
+    width: 40%;
     box-shadow: 3px 6px 9px rgb(20, 92, 199);
     margin: 3vh;
     border-radius: 5px;
     border-style: none;
 }
 .sec4>form>button{
-    height: 5vh;
-    width: 13vh;
+    height: auto;
+    width: 25%;
     box-shadow: 3px 6px 9px rgb(20, 92, 199);
     border-radius: 5px;
     border-style: none;
